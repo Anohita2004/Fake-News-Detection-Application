@@ -1,0 +1,14 @@
+streamlit
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+tensorflow
+scikit-learn
+imbalanced-learn
+gensim
+transformers
+safetensors
