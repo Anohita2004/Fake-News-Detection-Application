@@ -25,6 +25,8 @@ A robust detection system can help social media platforms, fact-checking agencie
 - Tokenization
 - TF-IDF vectorization for ML models  
   *(If using LSTM, word embeddings like Word2Vec/Glove were generated)*
+### Pipeline
+[!App Screenshot]()
 
 ### 3. **Model Building**
 - **Base Models**:
