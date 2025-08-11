@@ -26,7 +26,7 @@ A robust detection system can help social media platforms, fact-checking agencie
 - TF-IDF vectorization for ML models  
   *(If using LSTM, word embeddings like Word2Vec/Glove were generated)*
 ### Pipeline
-[!App Screenshot]()
+[!App Screenshot](https://github.com/Anohita2004/Fake-News-Detection-Application/blob/main/fake_news_flowchart.png)
 
 ### 3. **Model Building**
 - **Base Models**:
