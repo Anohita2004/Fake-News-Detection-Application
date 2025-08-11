@@ -42,6 +42,10 @@ A robust detection system can help social media platforms, fact-checking agencie
 - Confusion matrix for error analysis
 
 ---
+## 🚀 Live Demo
+
+Check out the app here: [Fake News Classifier Streamlit App](https://fakenewsapp3.streamlit.app/?utm_source=chatgpt.com)
+
 
 ## Results
 | Model                | Accuracy |
